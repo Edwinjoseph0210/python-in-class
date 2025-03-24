@@ -1,0 +1,6 @@
+date,temperature,humidity,windSpeed,precipitationType,place,weather
+2025-03-01,25,60,12,Rain,New York,Rainy
+2025-03-02,30,50,8,None,Los Angeles,Sunny
+2025-03-03,15,80,10,Snow,Chicago,Cloudy
+2025-03-04,18,75,14,Rain,Seattle,Rainy
+2025-03-05,10,90,20,None,Boston,Cloudy
